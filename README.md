@@ -1,15 +1,15 @@
 # Team Members
-[active] (ML) Felisitas Artemisia Rerung - Universitas Lambung Mangkurat
+[active] (ML) M229DSY0309 Felisitas Artemisia Rerung - Universitas Lambung Mangkurat
 
-[active] (ML) Fadhila Fairuz Zulfa Kenedi - Universitas Diponegoro
+[active] (ML) M166DSY0116 Fadhila Fairuz Zulfa Kenedi - Universitas Diponegoro
 
-[active] (MD) Ramadhani Ari Putra - Universitas Ahmad Dahlan
+[active] (MD) A131DKY3851 Ramadhani Ari Putra - Universitas Ahmad Dahlan
 
-[active] (MD) Azizah Fathimatuzzahro - Universitas Ahmad Dahlan
+[active] (MD) A131DSX1234 Azizah Fathimatuzzahro - Universitas Ahmad Dahlan
 
-[active] (CC) Rinday Zildjiani Salji - Universitas Ahmad Dahlan
+[active] (CC) C131DSY0931 Rinday Zildjiani Salji - Universitas Ahmad Dahlan
 
-[active] (CC) Zirlyfera Zakiya Maulidia - Universitas Pendidikan Indonesia
+[active] (CC) C309DSY0790 Zirlyfera Zakiya Maulidia - Universitas Pendidikan Indonesia
 
 # Project Description
 FoodHunt is an application that not only shows ingredients and recipes from scanned images, but we create other features, namely Find Resto  by using Google Maps API to show the closest places that sell food similar to those scanned, so the tourist can find out where to buy it if he wants to eat the food again at another time.
