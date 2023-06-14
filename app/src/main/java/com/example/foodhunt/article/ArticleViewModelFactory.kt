@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.example.foodhunt.article.articleviewmodel.ArticleViewModel
 
-class ArticleModelFactory : ViewModelProvider.NewInstanceFactory() {
+class ArticleViewModelFactory : ViewModelProvider.NewInstanceFactory() {
 
     @Suppress("UNCHECKED_CAST")
     override fun <T : ViewModel> create(modelClass: Class<T>): T {
