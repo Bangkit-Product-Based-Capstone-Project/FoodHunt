@@ -12,7 +12,7 @@
 [active] (CC) C309DSY0790 Zirlyfera Zakiya Maulidia - Universitas Pendidikan Indonesia
 
 # Project Description
-FoodHunt is an application that not only shows ingredients and recipes from scanned images, but we create other features, namely Find Resto  by using Google Maps API to show the closest places that sell food similar to those scanned, so the tourist can find out where to buy it if he wants to eat the food again at another time.
+FoodHunt is an application that not only shows ingredients and recipes from scanned images, but we create other features, namely Find Resto by using Google Maps API to show the closest places that sell food similar to those scanned, so the tourist can find out where to buy it if he wants to eat the food again at another time.
 
 ## Feature
 - Home
