@@ -20,6 +20,10 @@ FoodHunt is an application that not only shows ingredients and recipes from scan
 - List Article
 - Nearby Restaurant Maps
 
+![image](https://github.com/Bangkit-Product-Based-Capstone-Project/FoodHunt/assets/122088441/b9710014-9fc9-45d3-a207-e6e72314be10)
+![image](https://github.com/Bangkit-Product-Based-Capstone-Project/FoodHunt/assets/122088441/bb585552-1ca4-4c70-a6bf-98e23e9a88d6)
+
+
 
 ## UI/UX Design
 Here is a figma link for ui/ux design from foodhunt : https://www.figma.com/file/YUYGVlC3F7JoGLQziM8EAK/FoodHunt?type=design&node-id=0%3A1&t=B3tGjTQDq2VCX7X5-1
