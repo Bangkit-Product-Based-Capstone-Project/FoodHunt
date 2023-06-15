@@ -30,3 +30,8 @@ Here is a figma link for ui/ux design from foodhunt : https://www.figma.com/file
 
 ## Contact
 If anyone is having trouble, please contact the following email : afathimatuzzahro@gmail.com
+
+## Authors
+[@rmdhaniap](https://github.com/rmdhaniap)
+
+[@azizahfzahr](https://github.com/azizahfzahr)
