@@ -78,22 +78,4 @@ class MainActivity : AppCompatActivity() {
             }
         })
     }
-
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        when(item.itemId) {
-            R.id.menu_logout -> {
-                Intent(this, LoginActivity::class.java).also {
-                    startActivity(it)
-                    Toast.makeText(this, "Logout", Toast.LENGTH_SHORT).show()
-                    mainViewModel.logout()
-                }
-            }
-        }
-        return super.onOptionsItemSelected(item)
-    }
-
-    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        menuInflater.inflate(R.menu.menu, menu)
-        return super.onCreateOptionsMenu(menu)
-    }
 }

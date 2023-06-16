@@ -88,5 +88,6 @@
     <string name="al_register">Register</string>
     <string name="tv_login">Login</string>
     <string name="logout">logout</string>
+    <string name="nama_makanan">Nama Makanan</string>
 
 </resources>
