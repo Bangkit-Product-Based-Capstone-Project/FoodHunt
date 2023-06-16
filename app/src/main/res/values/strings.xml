@@ -89,5 +89,6 @@
     <string name="tv_login">Login</string>
     <string name="logout">logout</string>
     <string name="nama_makanan">Nama Makanan</string>
+    <string name="textCamera">Take a photo of the food and we\'ll find the nearest restaurant about this food for you!</string>
 
 </resources>
